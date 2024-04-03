@@ -1,6 +1,6 @@
 # Streamlit Chatbot
 
-This is a simple chatbot application built using Streamlit and OpenAI's language model API. It allows users to interact with an intelligent assistant powered by natural language processing.
+This is a simple chatbot application built using Streamlit and OpenAI's language model API. It allows users to interact with an intelligent assistant powered by natural language processing, in our case LM Studio.
 
 ## Usage
 
